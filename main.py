@@ -15,7 +15,7 @@ from agent import agent
 st.set_page_config(page_title="Productivity Pro", page_icon="🤖", layout="wide")
 
 st.title("🤖 Productivity Pro")
-st.caption("Your AI-powered personal productivity assistant")
+st.caption("Your personal productivity assistant")
 
 # ─────────────────────────────────────────────
 # Session state initialization
@@ -255,8 +255,7 @@ with st.sidebar:
     st.divider()
     st.subheader("ℹ️ Agent Info")
     st.markdown(f"**Today:** {date.today().isoformat()}")
-    st.markdown("**Model:** gemini-2.0-flash")
-    st.markdown("**MCP Server:** Notes Tool")
+    st.markdown("**Model:** gemini-2.5-flash")
 
     if st.button("🗑️ Clear Chat", use_container_width=True):
         st.session_state.messages = []

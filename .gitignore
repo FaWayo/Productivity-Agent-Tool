@@ -4,3 +4,5 @@ __pycache__/
 .venv/
 data/notes.db
 google_credentials.json
+google_calendar_token.json
+google_gmail_token.json
