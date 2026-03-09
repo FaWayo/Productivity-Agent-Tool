@@ -1,0 +1,34 @@
+{
+  "emails": [
+    {
+      "id": "email_001",
+      "from": "sarah@company.com",
+      "from_name": "Sarah Mensah",
+      "to": "me@company.com",
+      "subject": "Lunch today",
+      "body": "Hey! Still on for lunch at Kiza at noon? Let me know!",
+      "date": "2025-03-17T08:30:00",
+      "read": false
+    },
+    {
+      "id": "email_002",
+      "from": "boss@company.com",
+      "from_name": "Kwame Asante",
+      "to": "me@company.com",
+      "subject": "Q3 Report Review",
+      "body": "Please review the Q3 report before our 3pm meeting. Key focus: revenue projections in section 4.",
+      "date": "2025-03-17T07:00:00",
+      "read": true
+    },
+    {
+      "id": "email_003",
+      "from": "hr@company.com",
+      "from_name": "HR Team",
+      "to": "me@company.com",
+      "subject": "Team Offsite Planning",
+      "body": "We are planning a team offsite for Q2. Please fill in your availability using the link below.",
+      "date": "2025-03-16T14:00:00",
+      "read": true
+    }
+  ]
+}

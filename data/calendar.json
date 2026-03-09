@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "Team Standup",
+      "date": "2025-03-17",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "location": "Zoom",
+      "attendees": [
+        "team@company.com"
+      ]
+    },
+    {
+      "id": "evt_002",
+      "title": "Lunch with Sarah",
+      "date": "2025-03-17",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "location": "Kiza Restaurant",
+      "attendees": [
+        "sarah@company.com"
+      ]
+    },
+    {
+      "id": "evt_003",
+      "title": "Code Review",
+      "date": "2025-03-17",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "location": "Google Meet",
+      "attendees": [
+        "dev-team@company.com"
+      ]
+    },
+    {
+      "id": "evt_004",
+      "title": "Demo Meeting",
+      "date": "2026-03-09",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "location": "Zoom",
+      "attendees": [
+        "alice@example.com"
+      ]
+    }
+  ]
+}
