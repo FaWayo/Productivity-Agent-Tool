@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .venv/
 data/notes.db
+google_credentials.json
